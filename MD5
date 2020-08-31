@@ -1,0 +1,15 @@
+cd1c08b0459453e7c682dd387d215efd *DESCRIPTION
+da24eccbfd33da69c99614b0dbf10a26 *NAMESPACE
+9f610d0695bb569f10bd1d725ad26291 *R/doc_data.R
+1ab6623000666c28685060576d49d7f4 *R/doc_functions.R
+389ad6cd51eddfc629838713b2c36232 *R/doc_package.R
+1313fa413993e177d7396f394471e7a1 *data/cook_example.rda
+4d7b3a169e4ff8643a6fe273894c87a7 *inst/CITATION
+5a58f5e961112b320b5cbc568abd4fd4 *man/RankAggregator.Rd
+8dea585a5ceca304f9a5e2ced0a68346 *man/consensusRanking.Rd
+d30482bc0f820b582c2c59f934e1de24 *man/consensusRankingBoot.Rd
+a27ac97e5472fcab4a2abf0f3ef6263f *man/cook_example.Rd
+3441a7991ef27afdad41e9813fdd3bb9 *man/evaluationMatrix.Rd
+faf7540ba092130e311e2dd4c2ffb17b *man/extendRanking.Rd
+f17852df08552c76487672877c4b197f *man/lowerBound.Rd
+423c694af0ab0b7756602ff1c3d63772 *man/upperBound.Rd
